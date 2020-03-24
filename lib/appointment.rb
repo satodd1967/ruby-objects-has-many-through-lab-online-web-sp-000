@@ -17,5 +17,5 @@ class Appointment
     @@all
   end
   
-#binding.pry  
+binding.pry  
 end
