@@ -17,10 +17,5 @@ class Appointment
     @@all
   end
   
-  def self.patient
-    self.patient
-  end
-    
-  
 #binding.pry  
 end
