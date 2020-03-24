@@ -24,6 +24,7 @@ class Patient
   end
   
   def doctors
+    
   end
   
 #binding.pry
