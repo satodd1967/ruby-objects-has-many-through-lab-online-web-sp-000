@@ -20,6 +20,7 @@ class Patient
   end
   
   def appointments
+    
   end
   
   def doctors
